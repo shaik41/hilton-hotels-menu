@@ -1,0 +1,100 @@
+[
+  {
+    "areaName":"AXIS LOBBY LOUNGE",
+    "areaDescription":"The airy lobby lounge serves an extensive selection of coffees, teas, mouth-watering pastries and savory snacks in a tranquil ambience.",
+    "areaAvailabilityTime":"Open daily, 24 hours.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_lobbyloungeaxis01_225x225_FitToBoxSmallDimension_Center.jpg",
+    "foodMenuPDFURLs":[
+    "Axis Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Axis_Menu_Jan2018.pdf"
+    ],
+    "bookATableURL":""
+  },
+  {
+    "areaName":"BICE RISTORANTE",
+    "areaDescription":"Savor authentic Italian cuisine in an elegant atmosphere at BiCE Ristorante. Start your evening with an aperitivo at the stylish bar and move into the adjacent dining area where our professional team members will cater to your tastes.Choose from a selection of more than a dozen Italian olive oils from the signature olive-oil trolley to complement your dish.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_bicerest004_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Open for lunch from 12:30 pm to 3.30 pm & for dinner from 7:00 pm to 11:30 pm",
+    "foodMenuPDFURLs":[
+      "Main menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Bice_FoodMenu_Jan2018.pdf",
+      "Dessert Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Bice_DessertMenu_Jan2018.pdf",
+      "Brunch Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Bice_BrunchMenu_Jan2018.pdf"
+    ],
+    "bookATableURL":"https://www.zomatobook.com/widget/makereservation03.aspx?id=0CBPJT0KN"
+  },
+  {
+    "areaName":"BICE SKY BAR",
+    "areaDescription":"Bice Sky Bar, on the 10th floor, offers spectacular views over The Palm and the Arabian Gulf. Sip a cocktail at the balcony as the sun sets over the Dubai waterfront or enjoy an Italian dinner at the chic dining area to the tones of live entertainment.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_biceskybar11_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Open daily from 5:00 pm to 2:30 am",
+    "foodMenuPDFURLs":[
+    "Food Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Bice_FoodMenu_Jan2018.pdf",
+    "Dessert Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Bice_DessertMenu_Jan2018.pdf",
+      "Beverage Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_BiceSkyBar_BeverageMenu_Jan2018.pdf",
+      "Wine Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_BiceSkyBar_WineMenu_Jan2018.pdf",
+      "Happy Hour Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_BiceSkyBar_HappyHourMenu_Jan2018.pdf",
+      "Cigar Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_BiceSkyBar_CigarMenu_Jan2018.pdf"
+    ],
+    "bookATableURL":"https://www.zomatobook.com/widget/makereservation03.aspx?id=76PLOR8T1"
+  },
+  {
+    "areaName":"H2O POOL BAR",
+    "areaDescription":"Enjoy a refreshing drink at the swim-up bar or sample a tasty snack in the pergola setting.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_h20poolbar01_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Open daily from 10:00am to 11:00pm.",
+    "foodMenuPDFURLs":[
+      "H2O Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_H2O_Menu_Jan2018.pdf"
+
+    ],
+    "bookATableURL":""
+  },
+  {
+    "areaName":"MCGETTIGAN'S",
+    "areaDescription":"The award-winning Irish bar and restaurant is finally open! With ten large screens playing live sports matches from around the world, a hearty menu featuring classic Irish dishes, big burgers and mouth-watering desserts and a daily Happy Hour featuring a range of beers, wines, house spirits and cocktails, McGettigan’s JBR is set to become THE hangout spot for JBR residents and visitors.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_mcgettiganstables01_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Open daily, 12:30pm to 3:00am",
+    "foodMenuPDFURLs":[
+      "Food Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_MainMenu_Jan2018.pdf",
+      "Bites Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_BitesMenu_Jan2018.pdf",
+      "Breakfast Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_BreakfastMenu_Jan2018.pdf",
+      "Beverages Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_DrinksMenu_Jan2018.pdf",
+      "Cocktail Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_CocktailMenu_Jan2018.pdf",
+      "Happy Hour Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_McGettigans_HappyHourMenu_Jan2018.pdf"
+    ],
+    "bookATableURL":""
+  },
+  {
+    "areaName":"OCEANA",
+    "areaDescription":"Enjoy a delightful spread of daily breakfast, daily lunch and dinner buffets with special theme nights at this spacious all day dining restaurant.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_oceana01_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Breakfast from 7:00 am to 11:00 am \nLunch from 12:00 pm to 3:00 pm \nDinner from 6:30 pm to 11:00 pm",
+    "foodMenuPDFURLs":[
+      "Beverage Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Oceana_BeverageMenu_Jan2018.pdf",
+      "Breakfast Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Oceana_BreakfastMenu_Jan2018.pdf",
+      "Chinese Breakfast Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Oceana_ChineseBreakfastMenu_Jan2018.pdf",
+      "Food Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Oceana_AlaCarteMenu_Jan2018.pdf",
+      "Wine Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Oceana_WineMenu_Jan2018.pdf"
+    ],
+    "bookATableURL":""
+  },
+  {
+    "areaName":"PURE SKY LOUNGE & DINING",
+    "areaDescription":"Sip cocktails with friends or savor infused contemporary sharing food in this rooftop lounge, bar and restaurant overlooking the Arabian Gulf. With two expansive terraces, Pure Sky Lounge & Dining is an idyllic setting to watch the sunset in a chic and modern ambience.\nBe sure to try the sharing dessert, plated at your table by one of our skilled chefs.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_pureskylounge_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"Open daily from 5:00 pm until late.",
+    "foodMenuPDFURLs":[
+      "Pure Lounge & Dining Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Pure_FoodMenu_Jan2018.pdf",
+      "Pure Bar Menu ; http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/pdf/en_DXBJBHI_Pure_FoodMenu_Jan2018.pdf"
+    ],
+    "bookATableURL":""
+  },
+  {
+    "areaName":"TRADER VIC'S: OPENING SOON",
+    "areaDescription":"Home of the Original Mai Tai.® Trader Vic's will be soon opening another outlet in Dubai. Get ready to experience the best of Polynesia. Watch this space for more details.",
+    "areaImage":"http://www3.hilton.com/resources/media/hi/DXBJBHI/en_US/img/hotel/establishment/main/HL_tradervics01_225x225_FitToBoxSmallDimension_Center.jpg",
+    "areaAvailabilityTime":"",
+    "foodMenuPDFURLs":[
+
+    ],
+    "bookATableURL":""
+  }
+]

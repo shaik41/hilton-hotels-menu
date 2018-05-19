@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilton</string>
+    <string name="dining_header">Dining</string>
+    <string name="menu_header">In House Menu</string>
+</resources>
