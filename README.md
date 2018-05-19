@@ -1,2 +1,2 @@
 # hilton-hotels-menu
-In-app Menu for Hilton holtels
+In-house Menu for Hilton holtels
